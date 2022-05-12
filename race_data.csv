@@ -1,0 +1,41 @@
+name,start_time,distance,time_seconds,xc,tag
+NCSSAA City Championships,2017-05-17,0.8,133.86,FALSE,real
+uOttawa High School Invitational,2018-05-02,1.5,278,FALSE,real
+NCSSAA West Conference,2018-05-16,0.8,132.01,FALSE,real
+Turkey Trot,2018-10-04,6,1321,TRUE,real
+Capital XC Challenge ,2018-10-12,6,1361,TRUE,real
+West Conference,2018-10-18,5.53,1254,TRUE,real
+NCSSAA XC Championships,2018-10-25,5.76,1298,TRUE,real
+3km Time Trial,2018-12-01,3,600,FALSE,real
+Louis Riel Dome Meet,2019-01-19,0.6,92.7,FALSE,real
+Louis Riel Dome Meet,2019-01-19,1,170,FALSE,real
+Raven's Last Chance Meet,2019-02-16,0.3,38.81,FALSE,real
+Raven's Last Chance Meet,2019-02-16,0.6,89.38,FALSE,real
+Louis Riel Dome Meet,2019-04-04,0.2,24.83,FALSE,real
+Louis Riel Dome Meet,2019-04-04,0.4,55.43,FALSE,real
+Twilight,2019-07-31,0.2,24.63,FALSE,real
+Twilight,2019-07-31,1.5,270.56,FALSE,real
+Gryphon Open,2019-09-25,5,1191,TRUE,real
+Capital XC Challenge,2019-10-04,6,1308,TRUE,real
+Turkey Trot,2019-10-10,6,1294,TRUE,real
+West Conference,2019-10-16,5.84,1261,TRUE,real
+NCSSAA XC Championships,2019-10-24,6.21,1384,TRUE,real
+Raven's Last Chance Meet,2020-02-15,1.5,264,FALSE,real
+5km Time Trial,2020-11-07,5,1066,TRUE,real
+Althetic Ontario XC Chamionships,2020-11-15,5.23,1311,TRUE,real
+Long Run,2020-11-21,18.05,4356,TRUE,real
+Twilight,2021-07-15,5,1049,FALSE,real
+,,0.2,23.5,FALSE,min
+,,0.2,26,FALSE,max
+,,0.4,52,FALSE,min
+,,0.4,58,FALSE,max
+,,0.8,120,FALSE,min
+,,0.8,136,FALSE,max
+,,1.5,250,FALSE,min
+,,1.5,280,FALSE,max
+,,3,570,FALSE,min
+,,3,630,FALSE,max
+,,5,1020,FALSE,min
+,,5,1110,FALSE,max
+,,10,2160,FALSE,min
+,,10,2400,FALSE,max
